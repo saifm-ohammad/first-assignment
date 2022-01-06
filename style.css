@@ -1,6 +1,34 @@
 body{
     margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.apply-flex{
+    display: flex;
 }
 h1 {
-    color: aqua;
+    font-size: 50px;
+}
+.head{
+    padding: 120px;
+    width: 50%;
+    height: 650px;
+    box-sizing: border-box;
+}
+.head img {
+    width: 75%;
+}
+.headline{
+    padding-left: 10px;
+    border-left: 7px solid #E7717D;
+}
+.diff-color{
+    color: #F13C1F;
+}
+.button{
+    text-decoration: none;
+    background-color: #DF622C;
+    color: black;
+    font-weight: 700;
+    padding: 20px 40px;
+    border-radius: 5px;
 }
