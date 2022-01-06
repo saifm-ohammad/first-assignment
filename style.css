@@ -85,5 +85,34 @@ h2 {
 
 /* 3rd section end */
 
+.bgimage2{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position-x: 1080px;
+    background-position-y: 150px;
+}
+
 /* 4rt section end! Wow power of css! */
 
+.contact{
+    width: 100%;
+    height: 500px;
+    background-color: tomato;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    width: 100%;
+    height: 150px;
+    padding-top: 40px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.no-margin{
+    margin: 0;
+    padding: 0;
+}
