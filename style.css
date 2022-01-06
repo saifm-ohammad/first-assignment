@@ -29,7 +29,8 @@ h1 {
     text-decoration: none;
     background-color: #FF8B5A;
     color: black;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 900;
     padding: 15px 40px;
     border-radius: 5px;
 }
@@ -61,12 +62,10 @@ h3{
 .one-third{
     width: 40%;
     padding: 20px;
-    margin-left: 100px;
 }
 .two-third{
     width: 60%;
     padding: 55px;
-    margin-right: 100px;
 }
 h2 {
     font-size: 35px;
@@ -83,3 +82,8 @@ h2 {
 .justify{
     text-align: justify;
 }
+
+/* 3rd section end */
+
+/* 4rt section end! Wow power of css! */
+
